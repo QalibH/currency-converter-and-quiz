@@ -1,2 +1,2 @@
-# currency-converter-and-quiz
-currency converter and quiz
+# currency converter, quiz and calculator
+currency converter, quiz and calculator
