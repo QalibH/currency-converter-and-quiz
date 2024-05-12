@@ -5,3 +5,6 @@ def quiz(request):
 
 def converter(request):
     return render(request, 'main/converter.html')
+
+def calculator(request):
+    return render(request, 'main/calculator.html')
